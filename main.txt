@@ -1,0 +1,3 @@
+print("Test the variable"):wq!
+:
+
